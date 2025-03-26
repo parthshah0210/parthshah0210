@@ -4,13 +4,12 @@
   <img src="https://github.com/parthshah0210/parthshah0210/blob/main/Banner.png" alt="None">
 </div>
 
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud Architect Enthusiast | Open-Source Contributor</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-💻 **DevOps Engineer | Cloud Architect Enthusiast**  
 Passionate about designing scalable, secure, and automated cloud infrastructure.  
-AWS Certified | Kubernetes | CI/CD | Infrastructure as Code  
+2xAWS Certified | CI/CD | Infrastructure as Code  
 
 🔹 Helping businesses automate & optimize their cloud operations.  
 🔹 Open-source contributor & continuous learner.  
