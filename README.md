@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/parthshah0210">
-    <img src="https://img.shields.io/github/followers/parthshah0210?label=Follow&style=social" />
+    //<img src="https://img.shields.io/github/followers/parthshah0210?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/parthshah0210">
     <img src="https://img.shields.io/badge/LinkedIn-Parth%20Shah-blue?logo=linkedin&style=flat-square" />
@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=parthshah0210&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthshah0210](https://github.com/parthshah0210)  
