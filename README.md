@@ -6,15 +6,6 @@
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector. </h3>
 
-<p align="center">
-  <a href="https://github.com/parthshah0210">
-    //<img src="https://img.shields.io/github/followers/parthshah0210?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/parthshah0210">
-    <img src="https://img.shields.io/badge/LinkedIn-Parth%20Shah-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
