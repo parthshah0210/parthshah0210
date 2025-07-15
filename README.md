@@ -56,7 +56,7 @@ Passionate about designing scalable, secure, and automated cloud infrastructure.
 
 
 ### 🔗 My Projects  
-🔹 Explore all my projects at [GitHub Repositories](https://github.com/parthshah0210)  
+🔹 Explore all my projects at [GitHub Repositories](https://github.com/parthshah0210?tab=repositories)  
 
 ---
 
